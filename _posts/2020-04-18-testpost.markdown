@@ -1,8 +1,0 @@
----
-layout: post
-title: "testpost"
-subtitle: "stuff"
-date: 2020-04-18 23:45:13 -0400
-background: '/img/posts/01.jpg'
----
-stuff
