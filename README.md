@@ -76,5 +76,3 @@ If you already have this enlistment setup and configured skip to step 4.
    - `Jekyll serve` - poke around website especially any manual resolve areas
 15. Push changes
    - `git push`
-
-   
