@@ -54,7 +54,7 @@ If you already have this enlistment setup and configured skip to step 4.
    - `git push`
 6. Merge master into template (template is the branch we have customizations in)
    - `git checkout template`
-   - `git merge master --squash`
+   - `git merge master`
    - `git push`
 7. Navigate to Blog enlistment
    - `cd /d c:\git\github\pc\Blog` 
