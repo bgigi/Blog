@@ -2,8 +2,9 @@ title:              Philosophies Conclude
 email:              philosophiesconclude@hotmail.com
 description:        A parent sharing their perspective of life with their child
 author:             Philosophies Conclude
-baseurl:            /
+baseurl:            ""
 url:                "https://www.philosophiesconclude.com/"
+permalink:          /posts/:title/
 
 # Social Profiles
 twitter_username:   
