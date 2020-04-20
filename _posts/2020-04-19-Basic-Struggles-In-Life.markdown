@@ -24,7 +24,7 @@ background: '/img/posts/03.gif'
 
 <p>No matter how you live or what choices or decisions you make, you will suffer criticism. If you work hard, some will condemn you for your actions and ridicule your accomplishments stating that you are privileged. Others will praise you for your accomplishments yet condemn you in other ways. It reminds me of the 'man, woman, and donkey' cartoon.</p>
 
-<img src="/img/posts/03-body.jpg">
+<img src="../../img/posts/03-body.jpg">
 
 
 <p>We all have different circumstances that bring individually unique struggles for each of us. Many people will be unable to overcome their struggles. Many of those who fail in their efforts will blame others for their failure. In some cases, this blame will be appropriate, but usually, it is not. We all have challenges we need to overcome in life. Many of those challenges can be easy, depending on the resources you have available. Those with fewer resources will have fewer options on solving their problems and will have to get more creative to solve them. This creativity can grow to be a massive boon in their life. If someone uses money to solve their challenges, they don't learn nearly as much and won't benefit as much. There are tradeoffs in anything in life. In some ways, you are blessed; in others, you will struggle. Life is like this for everyone.</p>
