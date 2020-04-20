@@ -2,7 +2,7 @@
 layout: post
 title: "Basic Struggles In Life"
 subtitle: "Being right and wrong"
-date: 2020-04-19 22:20:48 -0400
+date: 2020-04-19 13:20:48 -0400
 background: '/img/posts/03.gif'
 ---
 

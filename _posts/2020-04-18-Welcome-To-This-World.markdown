@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome To This World!"
 subtitle: "The struggles of communicating."
-date: 2020-04-18 20:31:25 -0400
+date: 2020-04-18 12:31:25 -0400
 background: '/img/posts/02.jpg'
 ---
 
