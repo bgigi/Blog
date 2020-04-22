@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Basic Struggles In Life"
-subtitle: "Being right and wrong"
+title: "Welcome To This World!"
+subtitle: "Being right and wrong."
 date: 2020-04-19 13:20:48 -0400
 background: '/img/posts/03.gif'
 ---
 
-## Dear baby girl,
+## Dear Baby Girl,
 
 <p>I shall continue with the point I was trying to make last time. I have long struggled with what is right and wrong. These terms right and wrong suggest they are clear and concise.  However, I  have long been confused by them. So often, I think I am doing something right only to learn I had wronged someone in doing so.</p>
 
