@@ -5,8 +5,7 @@ subtitle: "Language Is A Tool, No More And No Less."
 date: 2020-04-22 03:01:23 -0400
 background: '/img/posts/Language-Is-Arbitrary/Castle-Ruins.jpg'
 ---
-
-Dear Baby Girl,
+## Dear Baby Girl,
 
 <p>Today I wanted to talk to you about the thing called language. To do this, let's break it apart and try to understand each idea on its own.</p>
 

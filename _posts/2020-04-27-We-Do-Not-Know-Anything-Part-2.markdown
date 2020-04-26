@@ -3,9 +3,9 @@ layout: post
 title: "We Don't Know Anything!"
 subtitle: "Critically think for yourself"
 date: 2020-04-25 03:01:23 -0400
-background: '/img/posts/We-Don&apos;t-Know-Anything/Hornet-Nest.jpg'
+background: '/img/posts/We-Do-Not-Know-Anything/Hornet-Nest.jpg'
 ---
-Dear Baby Girl,
+## Dear Baby Girl,
 
 <p>As you grow up and are sitting in class, you will be taught many things. Hopefully, those things will be valid science. Still, even science is just a speculation that is based on observation and measurements. It doesn't mean it is complete or right. Though the more accurate and correct measurements and observations, the more likely it is closer to the truth. However, as a spoiler, don't expect to get anything close to the truth out of your formalized education.  That isn't the goal of education.  It might be the goal of your endeavors to learn. Still, education, especially formalized ones and learning are not very related.</p>
 

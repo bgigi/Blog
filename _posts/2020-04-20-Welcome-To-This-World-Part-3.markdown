@@ -5,7 +5,6 @@ subtitle: "Learning About Yourself."
 date: 2020-04-20 03:01:23 -0400
 background: '/img/posts/Welcome-To-This-World/cabin.jpg'
 ---
-
 ## Dear Baby Girl,
 
 <p>As you grow older, the challenges in this world will be far more complicated then they are today. You will need to navigate many difficult situations. How you decide your course of life will be fundamentally critical to your success and well being. I have found by and large that the most impactful choices in my life have been the little opportunistic things like whether or not I talk to a specific person or not. Or if I hold myself accountable to some internal metric. Of course, there are big decisions that come in life, like where to live, what school, what job, and so on.</p>

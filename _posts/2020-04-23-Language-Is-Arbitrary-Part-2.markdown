@@ -5,8 +5,7 @@ subtitle: "Practice Tolerance."
 date: 2020-04-23 03:01:23 -0400
 background: '/img/posts/Language-Is-Arbitrary/Tree-Fungus.jpg'
 ---
-
-Dear Baby Girl,
+## Dear Baby Girl,
 
 <p>Another point I want to make is, language is arbitrary. It is a very fluid medium used to communicate.  Most people have their definitions, which creates a constant source of misunderstandings and ambiguity. This creates a struggle between being concise or verbose. The right answer, probably like most things, is in the middle.</p>
 

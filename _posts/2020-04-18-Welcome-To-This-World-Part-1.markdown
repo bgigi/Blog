@@ -6,7 +6,6 @@ date: 2020-04-18 12:31:25 -0400
 background: '/img/posts/Welcome-To-This-World/bassinet.jpg'
 ---
 <p style="text-align: right;"><font size="2"><em>Image by <a href="https://freestocks.org/">freestocks</a> via <a href="https://unsplash.com/photos/sVwzvlpeEAU">Unsplash</a></em></font></p>
-
 ## Dear Baby Girl,
 
 <p>As I learn this whole parenting thing, I am finding that it is mostly just guessing after collecting data from different sources. I believe this is roughly what an informed decision is. It is interesting how most of life's decisions appear to be just that. Guessing the best way you can. In truth, very rarely have I known what the right thing to do is. The most I can hope for is knowing a reasonable thing to do, given my understanding of the current situation.</p>

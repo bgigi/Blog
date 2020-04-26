@@ -5,8 +5,7 @@ subtitle: "'Bad' Language."
 date: 2020-04-24 03:01:23 -0400
 background: '/img/posts/Language-Is-Arbitrary/Beach-Tree-Hawaii.jpg'
 ---
-
-Dear Baby Girl,
+## Dear Baby Girl,
 
 <p>Now let's talk about bad language. I believe bad language in the logical sense is ineffective language. Sure many people would claim that swearing is bad language and, to an extent, it can be. When someone has hot words, they have increased the barrier to communication. I think a person who creates artificial hindrances to discussion is being foolish.  Effectively communicating is already hard enough.  Having to dance around peoples personal pet peeves because they are an easily offended snowflake significantly increases the friction between the exchange of words.  This is import because of the meaning of the old saying, 'When goods can't cross borders troops will.'  This concept holds for communicating 'When words stop flowing fist start flying.'</p>
 

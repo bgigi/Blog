@@ -5,7 +5,7 @@ subtitle: "Forming Your Belief Structure."
 date: 2020-04-21 03:01:23 -0400
 background: '/img/posts/What-Are-These-Letters-For/old-building.jpg'
 ---
-Dear Baby Girl,
+## Dear Baby Girl,
   
 <p>When I was growing up, there were many concepts and notions that I wish I had been taught instead of having to figure them out on my own. I don't intend to tell you what is right or wrong or what concepts are essential or not. I want to inform you of the little bit I have pieced together.  Hopefully, this will give you a reference when you struggle to rationalize your own existence.</p>
 
