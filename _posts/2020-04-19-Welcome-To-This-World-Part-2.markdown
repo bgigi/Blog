@@ -3,7 +3,7 @@ layout: post
 title: "Welcome To This World!"
 subtitle: "Being right and wrong."
 date: 2020-04-19 13:20:48 -0400
-background: '/img/posts/03.gif'
+background: '/img/posts/Welcome-To-This-World/ocean.gif'
 ---
 
 ## Dear Baby Girl,
@@ -22,9 +22,10 @@ background: '/img/posts/03.gif'
 
 <p>In many cases, now of days, you can be right and wrong at the same time. Children are sometimes punished for doing the right thing not because it was wrong but because it wasn't respecting authority even though the "authority" was in the clear wrong. There will come a time when you are in trouble and get punished when you did the right thing. When that happens, try to understand that human nature is to strive to better themselves in the context of their belief structure. So when you face injustice, find your father or a close friend and get ice cream with them and let the silliness resolve itself.</p>
 
-<p>No matter how you live or what choices or decisions you make, you will suffer criticism. If you work hard, some will condemn you for your actions and ridicule your accomplishments stating that you are privileged. Others will praise you for your accomplishments yet condemn you in other ways. It reminds me of the 'man, woman, and donkey' cartoon.</p>
+<p>No matter how you live or what choices or decisions you make, you will suffer criticism. If you work hard, some will condemn you for your actions and ridicule your accomplishments stating that you are privileged. Others will praise you for your accomplishments yet condemn you in other ways. It reminds me of the 'man, woman, and donkey' cartoon that is based on the &#xC6;sop Fable <a href="https://www.bartleby.com/17/1/62.html">The Man, the Boy, and the Donkey</a></p>
 
-<img src="../../img/posts/03-body.jpg">
+<img src="../../img/posts/Welcome-To-This-World/man-wife-donkey.jpg">
+<p style="text-align: right;"><font size="2"><em>Image source <a href="https://www.catchupnews.org/catchupnews-blog/entry/the-man-the-wife-the-donkey-and-the-critics.html">www.catchupnews.org</a></em></font></p>
 
 
 <p>We all have different circumstances that bring individually unique struggles for each of us. Many people will be unable to overcome their struggles. Many of those who fail in their efforts will blame others for their failure. In some cases, this blame will be appropriate, but usually, it is not. We all have challenges we need to overcome in life. Many of those challenges can be easy, depending on the resources you have available. Those with fewer resources will have fewer options on solving their problems and will have to get more creative to solve them. This creativity can grow to be a massive boon in their life. If someone uses money to solve their challenges, they don't learn nearly as much and won't benefit as much. There are tradeoffs in anything in life. In some ways, you are blessed; in others, you will struggle. Life is like this for everyone.</p>

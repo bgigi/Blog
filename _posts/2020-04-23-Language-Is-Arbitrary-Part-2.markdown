@@ -3,7 +3,7 @@ layout: post
 title: "Language Is Arbitrary!"
 subtitle: "Practice Tolerance."
 date: 2020-04-23 03:01:23 -0400
-background: '/img/posts/07.jpg'
+background: '/img/posts/Language-Is-Arbitrary/Tree-Fungus.jpg'
 ---
 
 Dear Baby Girl,

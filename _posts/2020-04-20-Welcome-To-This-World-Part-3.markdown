@@ -3,7 +3,7 @@ layout: post
 title: "Welcome To This World!"
 subtitle: "Learning About Yourself."
 date: 2020-04-20 03:01:23 -0400
-background: '/img/posts/04.jpg'
+background: '/img/posts/Welcome-To-This-World/cabin.jpg'
 ---
 
 ## Dear Baby Girl,
@@ -16,7 +16,7 @@ background: '/img/posts/04.jpg'
 
 <p>When it comes to figuring out what is right and wrong or good and evil, one needs to discuss what is known as a belief system or structure. The belief structure a person uses is of the utmost importance for making decisions and guiding your actions. Your belief system will have a significant influence on who your friends will be.  On what your political and religious views will be. Most people do not have a defined belief structure, so they are usually easily swayed with emotional arguments. After all, it takes a lot of time to reason things out individually, and it requires you to face controversial topics without compromise and come to an understanding of the underlying concepts.</p>
 
-<p>Discussing underlying concepts and their implications on a subject with others can be challenging because many are set in their emotional opinions.  In general, most people are focused on solutions to the problem at hand and not focused on the underlying root concepts creating the problem.  As soon as you get into discussing the fundamentals of a position, you quickly learn that you may get people to agree with the reasoning of a concept. However, if the idea is counter to an existing view, then it will create dissonance, which will result in them usually being frustrated and agitated. Once conflict occurs, any discussion will often cease, and only arguments will result.  So it is best to let things settle before you try to advance your reasoning.   </p>
+<p>Discussing underlying concepts and their implications on a subject with others can be challenging because many are set in their emotional opinions.  In general, most people are focused on solutions to the problem at hand and not focused on the underlying root concepts creating the problem.  As soon as you get into discussing the fundamentals of a position, you quickly learn that you may get people to agree with the reasoning of a concept. However, if the idea is counter to an existing view, then it will create dissonance, which will result in them usually being frustrated and agitated. Once conflict occurs, any discussion will often cease, and only arguments will result.  So it is best to let things settle before you try to advance your reasoning.</p>
 
 <p>As you grow up and read my letters to you, I want you to remember I am not trying to make you believe as I do or think as I do. I am trying to get you to know my belief system so you can have it as a basis to formulate your own. There are many reasons to have a defined belief structure. It can help to filter data and determine it's value quickly. It will help you know what side to be on when you need to stand for something. Now of days, too many people will stand for anything that is wrapped in emotionally invoking words.</p>
 

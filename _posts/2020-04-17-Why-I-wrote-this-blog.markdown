@@ -3,8 +3,9 @@ layout: post
 title: "Why I wrote this blog?"
 subtitle: "Stuff I wanted to know as a child."
 date: 2020-04-17 14:52:13 -0400
-background: '/img/posts/01.jpg'
+background: '/img/posts/Why-I-Wrote-This-Blog/dinosaur.jpg'
 ---
+<p style="text-align: right;"><font size="2"><em>Image via <a href="https://unsplash.com/photos/AgkdMHVq2Fk">Unsplash</a></em></font></p>
 
 <p>Growing up, I never had any answers, much like everyone else.  As I have grown older, I have realized that I still don't have any answers. Yet, I do have a better understanding of the underlying problems.  But what I lacked most was a way to critically evaluate the solutions that I would get from others or come up with myself.  How could I determine if they were the right answers or wrong answers?  How could I tell if the answers were helpful or hurtful?  How could I understand what the real implications of the solutions were?  It is these thoughts I struggled with since I was young.  And honestly, I still struggle with them, just not as much now of days.</p>
 
