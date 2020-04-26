@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "We Do Not Know Anything!"
-subtitle: "Child hood ignorance."
+subtitle: "Childhood ignorance."
 date: 2020-04-26 01:01:23 -0400
-background: '/img/posts/We-Don't-Know-Anything/River-Fog.jpg'
+background: '/img/posts/We-Do-Not-Know-Anything/River-Fog.jpg'
 ---
 Dear Baby Girl,
 
