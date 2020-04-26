@@ -27,4 +27,4 @@ Dear Baby Girl,
 <p>Yet even after all of this, I still sought for an explanation outside of me to find some external intrinsically recognizable authority which would give me the answers. I tried to find something, but eventually, I grew tired of this search and came to understand what I was told long ago. Nobody knows. Who you are, what you are, what your purpose, what your reason is. Are you something more than a meat puppet? Is there more than us. To my understanding, there doesn't seem to be a consensus or indisputable proof. People have ideas and thoughts people have different perspectives. But nobody that I met seemed to know.</p>
 
 <p>I am no different. I have no clue. I have formulated my thoughts on the matter and believe them to be in the right direction, but I have no idea of what the truth is. If someone were able to perform a miracle, I would listen to what they had to say with great seriousness. But even then, I would question and expect to find an answer to my questions. If I didn't, I would consider the miracle worker is just better at understanding things then I am but still is not fully aware.</p>
-
+ 
