@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "We Do Not Know Anything!"
-subtitle: "Child hood ignorance."
-date: 2020-04-26 01:01:23 -0400
-background: '/img/posts/We-Don't-Know-Anything/River-Fog.jpg'
+subtitle: "Childhood ignorance."
+date: 2020-04-26 03:01:23 -0400
+background: '/img/posts/We-Don&apos;t-Know-Anything/River-Fog.jpg'
 ---
+
 Dear Baby Girl,
 
 <p>When I was little, there were so many things I needed to learn and figure out. I always asked questions like most kids until I learned I could no longer get answers. So I sat in silence, trying to figure things out and contemplate stuff on my own.</p>
