@@ -15,6 +15,8 @@ Violence is something I define as the initiation of force without consent. Now l
 
 As you can tell, this is a very loose definition and does not speak about damages. The reason for this is I define trespass as violence that results in damages.  
 
+Well, there are an endless number of scenarios when you discuss the physical reality. If you keep the discussion to the theoretical concepts of existence, then you can create a rational understanding. However, we haven't had that talk yet. When we do, you will start to get the feeling that humanity as a whole is missing something with its views. Our notion of us and what is ours seems to be missing something. Property is a core fundamental concept in this physical reality, yet I don't think it is correctly understood. But this concept of trespass is simply that of causing damages to others property. We haven't talked about property yet. For now, think of 'you and what you own,' as your property.  Of course, what does ownership mean?  We will cover these in future letters, of course.
+
 I should speak momentarily of intent.  Intention is when you are doing something with a purpose.  For example, if you move your arm, you intended to make your arm move.  You may have further intent that the arm moved in such a way will bring about a desired result.  The point I am getting at is most actions have some intention behind them, and the higher the understanding of potential consequences would create a greater intent.
 
 Let's give a few examples to illustrate the definitions better.
