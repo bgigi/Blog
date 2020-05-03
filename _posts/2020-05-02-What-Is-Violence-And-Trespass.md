@@ -5,7 +5,7 @@ subtitle: "Defining some terms."
 date: 2020-05-02 14:52:13 -0400
 background: '/img/posts/What-Is-Violence-And-Trespass/river-through-trees.jpg'
 ---
-Dear Baby Girl,
+##Dear Baby Girl,
 
 The concept of violence and trespass are closely related to each other. However, because many definitions exist for these terms, I thought I would provide to you how I use these terms. Previously I explained how language is arbitrary.  Because of this ambiguity, any sort of in-depth discussion is hard without defining terms.  So I will describe them in a clear sense for the context of our conversations to avoid confusion.
 
