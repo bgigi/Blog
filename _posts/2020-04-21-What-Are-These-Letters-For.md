@@ -3,7 +3,7 @@ layout: post
 title: "What Are These Letters For?"
 subtitle: "Forming Your Belief Structure."
 date: 2020-04-21 03:01:23 -0400
-background: '/img/posts/photo3.jpg'
+background: '/img/posts/photo4.jpg'
 ---
 ## Dear Baby Girl,
   
