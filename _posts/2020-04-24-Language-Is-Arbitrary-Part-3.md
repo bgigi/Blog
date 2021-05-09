@@ -3,7 +3,7 @@ layout: post
 title: "Language Is Arbitrary!"
 subtitle: "'Bad' Language."
 date: 2020-04-24 03:01:23 -0400
-background: '/img/posts/Language-Is-Arbitrary/Beach-Tree-Hawaii.jpg'
+background: '/img/posts/photo7.jpg'
 ---
 ## Dear Baby Girl,
 
