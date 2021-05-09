@@ -3,7 +3,7 @@ layout: post
 title: "What Is Intent?"
 subtitle: "Respecting Others."
 date: 2020-05-03 14:52:13 -0400
-background: '/img/posts/What-Is-Intent/Hawaii-Native-Shelter.jpg'
+background: '/img/posts/work4.jpg'
 ---
 ## Dear Baby Girl,
 
