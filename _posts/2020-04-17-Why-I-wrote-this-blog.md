@@ -3,7 +3,7 @@ layout: post
 title: "Why I wrote this blog?"
 subtitle: "Stuff I wanted to know as a child."
 date: 2020-04-17 14:52:13 -0400
-background: '/img/posts/Why-I-Wrote-This-Blog/dinosaur.jpg'
+background: '/img/posts/photo1.jpg'
 ---
 <p style="text-align: right;"><font size="2"><em>Image via <a href="https://unsplash.com/photos/AgkdMHVq2Fk">Unsplash</a></em></font></p>
 
