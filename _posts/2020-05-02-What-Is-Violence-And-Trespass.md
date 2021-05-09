@@ -3,7 +3,7 @@ layout: post
 title: "What Is Violence And Trespass?"
 subtitle: "Defining some terms."
 date: 2020-05-02 14:52:13 -0400
-background: '/img/posts/What-Is-Violence-And-Trespass/river-through-trees.jpg'
+background: '/img/posts/work3.jpg'
 ---
 ## Dear Baby Girl,
 
