@@ -3,7 +3,7 @@ layout: post
 title: "Language Is Arbitrary!"
 subtitle: "Language Is A Tool, No More And No Less."
 date: 2020-04-22 03:01:23 -0400
-background: '/img/posts/Language-Is-Arbitrary/Castle-Ruins.jpg'
+background: '/img/posts/photo5.jpg'
 ---
 ## Dear Baby Girl,
 
