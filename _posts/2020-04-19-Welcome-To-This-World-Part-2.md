@@ -3,7 +3,7 @@ layout: post
 title: "Welcome To This World!"
 subtitle: "Being right and wrong."
 date: 2020-04-19 13:20:48 -0400
-background: '/img/posts/Welcome-To-This-World/ocean.gif'
+background: '/img/posts/photo3.jpg'
 ---
 ## Dear Baby Girl,
 
