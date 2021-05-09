@@ -1,9 +1,9 @@
-title:              Philosophies Conclude
-email:              philosophiesconclude@hotmail.com
-description:        A parent sharing their perspective on life with their child.
-author:             Philosophies Conclude
+title:              Atena
+email:              atena18@hotmail.com
+description:        A blog for friends.
+author:             Bogdan
 baseurl:            /
-url:                "https://www.philosophiesconclude.com/"
+url:                "https://bgigi.github.io/Blog/"
 permalink:          /posts/:title/
 
 # Social Profiles
