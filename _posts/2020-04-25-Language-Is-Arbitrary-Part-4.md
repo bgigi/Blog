@@ -3,7 +3,7 @@ layout: post
 title: "Language Is Arbitrary!"
 subtitle: "Close Mindedness."
 date: 2020-04-25 03:01:23 -0400
-background: '/img/posts/Language-Is-Arbitrary/Valley-View.jpg'
+background: '/img/posts/photo8.jpg'
 ---
 
 Dear Baby Girl,
