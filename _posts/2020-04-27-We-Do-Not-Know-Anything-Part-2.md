@@ -3,7 +3,7 @@ layout: post
 title: "We Do Not Know Anything!"
 subtitle: "Critically think for yourself"
 date: 2020-04-27 03:01:23 -0400
-background: '/img/posts/We-Do-Not-Know-Anything/Hornet-Nest.jpg'
+background: '/img/posts/work2.jpg'
 ---
 ## Dear Baby Girl,
 
