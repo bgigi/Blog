@@ -3,7 +3,7 @@ email:              atena18@hotmail.com
 description:        A blog for friends.
 author:             Bogdan
 baseurl:            /
-url:                "https://bgigi.github.io/Blog/"
+url:                "https://bgigi.github.io/"
 permalink:          /posts/:title/
 
 # Social Profiles
